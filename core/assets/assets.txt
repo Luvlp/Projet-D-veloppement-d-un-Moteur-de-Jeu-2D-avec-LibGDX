@@ -1,0 +1,129 @@
+libgdx.png
+maps/map_0_0.tmx
+maps/map_1_0.tmx
+sprites/bullet.png
+sprites/enemy.png
+sprites/player.png
+tiles/Ground Tiles.tsx
+tiles/The Fan-tasy Tileset (Free)/Art/Buildings/Animations/Door_Normal_Wood.png
+tiles/The Fan-tasy Tileset (Free)/Art/Buildings/Animations/Door_Small_Wood.png
+tiles/The Fan-tasy Tileset (Free)/Art/Buildings/Atlas/Buildings.png
+tiles/The Fan-tasy Tileset (Free)/Art/Buildings/CityWall_Gate_1.png
+tiles/The Fan-tasy Tileset (Free)/Art/Buildings/House_Hay_1.png
+tiles/The Fan-tasy Tileset (Free)/Art/Buildings/House_Hay_2.png
+tiles/The Fan-tasy Tileset (Free)/Art/Buildings/House_Hay_3.png
+tiles/The Fan-tasy Tileset (Free)/Art/Buildings/House_Hay_4_Purple.png
+tiles/The Fan-tasy Tileset (Free)/Art/Buildings/Well_Hay_1.png
+tiles/The Fan-tasy Tileset (Free)/Art/Characters/Main Character/Character_Idle.png
+tiles/The Fan-tasy Tileset (Free)/Art/Characters/Main Character/Character_Slash.png
+tiles/The Fan-tasy Tileset (Free)/Art/Characters/Main Character/Character_Walk.png
+tiles/The Fan-tasy Tileset (Free)/Art/Ground Tileset/Tileset_Ground.png
+tiles/The Fan-tasy Tileset (Free)/Art/Ground Tileset/Tileset_Road.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Animation/Campfire.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Animation/Flowers_Red.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Animation/Flowers_White.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Atlas/Props.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Banner_Stick_1_Purple.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Barrel_Small_Empty.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Basket_Empty.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Bench_1.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Bench_3.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/BulletinBoard_1.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Chopped_Tree_1.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Crate_Large_Empty.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Crate_Medium_Closed.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Crate_Water_1.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Fireplace_1.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/HayStack_2.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/LampPost_3.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Plant_2.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Sack_3.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Sign_1.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Sign_2.png
+tiles/The Fan-tasy Tileset (Free)/Art/Props/Table_Medium_1.png
+tiles/The Fan-tasy Tileset (Free)/Art/Rock Slopes/Tileset_RockSlope.png
+tiles/The Fan-tasy Tileset (Free)/Art/Rock Slopes/Tileset_RockSlope_Simple.png
+tiles/The Fan-tasy Tileset (Free)/Art/Rocks/Atlas/Rocks.png
+tiles/The Fan-tasy Tileset (Free)/Art/Rocks/Rock_Brown_1.png
+tiles/The Fan-tasy Tileset (Free)/Art/Rocks/Rock_Brown_2.png
+tiles/The Fan-tasy Tileset (Free)/Art/Rocks/Rock_Brown_4.png
+tiles/The Fan-tasy Tileset (Free)/Art/Rocks/Rock_Brown_6.png
+tiles/The Fan-tasy Tileset (Free)/Art/Rocks/Rock_Brown_9.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Atlas/Tileset_Shadow.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_16x16_Flat_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_16x16_Long_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_16x16_Medium_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_16x16_Short_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_24x24_Flat_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_24x24_Long_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_24x24_Medium_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_24x24_Short_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_32x32_Flat_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_32x32_Long_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_32x32_Medium_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_32x32_Short_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_40x40_Flat_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_40x40_Long_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_40x40_Medium_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_40x40_Short_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_48x48_Flat_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_48x48_Long_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_48x48_Medium_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Round_48x48_Short_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_16x16_Flat_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_16x16_Long_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_16x16_Medium_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_16x16_Short_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_24x24_Flat_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_24x24_Long_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_24x24_Medium_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_24x24_Short_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_32x32_Flat_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_32x32_Long_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_32x32_Medium_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_32x32_Short_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_40x40_Flat_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_40x40_Long_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_40x40_Medium_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_40x40_Short_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_48x48_Flat_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_48x48_Long_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_48x48_Medium_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Shadows/Shadow_Sqare_48x48_Short_Black.png
+tiles/The Fan-tasy Tileset (Free)/Art/Tileset_Example.png
+tiles/The Fan-tasy Tileset (Free)/Art/Trees and Bushes/Atlas/Trees_Bushes.png
+tiles/The Fan-tasy Tileset (Free)/Art/Trees and Bushes/Bush_Emerald_1.png
+tiles/The Fan-tasy Tileset (Free)/Art/Trees and Bushes/Bush_Emerald_2.png
+tiles/The Fan-tasy Tileset (Free)/Art/Trees and Bushes/Bush_Emerald_3.png
+tiles/The Fan-tasy Tileset (Free)/Art/Trees and Bushes/Bush_Emerald_4.png
+tiles/The Fan-tasy Tileset (Free)/Art/Trees and Bushes/Bush_Emerald_5.png
+tiles/The Fan-tasy Tileset (Free)/Art/Trees and Bushes/Bush_Emerald_6.png
+tiles/The Fan-tasy Tileset (Free)/Art/Trees and Bushes/Bush_Emerald_7.png
+tiles/The Fan-tasy Tileset (Free)/Art/Trees and Bushes/Tree_Emerald_1.png
+tiles/The Fan-tasy Tileset (Free)/Art/Trees and Bushes/Tree_Emerald_2.png
+tiles/The Fan-tasy Tileset (Free)/Art/Trees and Bushes/Tree_Emerald_3.png
+tiles/The Fan-tasy Tileset (Free)/Art/Trees and Bushes/Tree_Emerald_4.png
+tiles/The Fan-tasy Tileset (Free)/Art/Water and Sand/Tileset_Water.png
+tiles/The Fan-tasy Tileset (Free)/Free Trial Guide.pdf
+tiles/The Fan-tasy Tileset (Free)/The Fan-tasy Tileset Documentation.pdf
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilemaps/Beginning Fields.png
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilemaps/Beginning Fields.tmx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilemaps/Rules/RockSlopes_Rules.tmx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilemaps/rules.txt
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Animation_Campfire.tsx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Animation_Flowers_Red.tsx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Animation_Flowers_White.tsx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Atlas_Buildings.tsx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Atlas_Props.tsx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Atlas_Rocks.tsx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Atlas_Trees_Bushes.tsx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Objects_Buildings.tsx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Objects_Props.tsx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Objects_Rocks.tsx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Objects_Trees.tsx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Tileset_Ground.tsx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Tileset_RockSlope.tsx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Tileset_RockSlope_Simple.tsx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Tileset_Shadow.tsx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Tileset_Water.tsx
+tiles/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Tilesets_Road.tsx
